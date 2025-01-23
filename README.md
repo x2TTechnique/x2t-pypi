@@ -12,5 +12,5 @@ Let x2T Consulting help elevate your business to the next level!
 
 ### Contributors
 
-- [@tim - Bùi Đức Tuấn](https://github.com/buiductuan-dev)
-- [@tammy - Nguyễn Thị Phương Tâm](https://github.com/buiductuan-dev)
+- [@tim - Bùi Đức Tuấn](https://github.com/buiductuan-git)
+- [@tammy - Nguyễn Thị Phương Tâm](https://github.com/Phuongtam)
