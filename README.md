@@ -8,7 +8,7 @@ Let x2T Consulting help elevate your business to the next level!
 
 ## Authors
 
-- [x2T Technology](https://github.com/x2TTechnology/x2t)
+- [x2T Technology](https://github.com/x2TTechnique)
 
 ### Contributors
 

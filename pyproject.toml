@@ -37,6 +37,6 @@ classifiers = [
 Homepage = "https://x2t.tech"
 Repository = "https://github.com/x2TTechnique/x2t-pypi"
 Issues = "https://github.com/x2TTechnique/x2t-pypi/issues"
-Changelog = "https://github.com/x2TTechnique/x2t-pypi/blob/main/CHANGELOG.md"
+Changelog = "https://github.com/x2TTechnique/x2t-pypi/blob/master/CHANGELOG.md"
 
 
