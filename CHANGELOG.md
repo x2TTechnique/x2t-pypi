@@ -1,4 +1,8 @@
-## <a name="v0.1.8" href="https://pypi.org/project/x2ttech/0.1.8/">x2T Library</a>
+## <a name="v0.2.0" href="https://pypi.org/project/x2ttech/0.2.0/">x2T Library</a>
+
+### v0.2.0 - 2025-02-06
+
+- Docstring for all functions
 
 ### v0.1.9 - 2025-01-23
 
