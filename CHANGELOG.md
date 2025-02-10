@@ -1,4 +1,8 @@
-## <a name="v0.2.0" href="https://pypi.org/project/x2ttech/0.2.0/">x2T Library</a>
+## <a name="v0.2.1" href="https://pypi.org/project/x2ttech/0.2.1/">x2T Library</a>
+
+### v0.2.1 - 2025-02-10
+
+- Measuring function running time
 
 ### v0.2.0 - 2025-02-06
 

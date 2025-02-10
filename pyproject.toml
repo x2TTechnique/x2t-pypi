@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "x2ttech"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = ["requests"]
 authors = [{name = "x2T Technique", email = "x2t.technique@gmail.com"}]
 maintainers = [
