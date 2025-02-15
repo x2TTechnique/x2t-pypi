@@ -1,4 +1,8 @@
-## <a name="v0.2.2" href="https://pypi.org/project/x2ttech/0.2.1/">x2T Library</a>
+## <a name="v0.2.3" href="https://pypi.org/project/x2ttech/0.2.1/">x2T Library</a>
+
+### v0.2.3 - 2025-02-15
+
+- Remove params seperators in method `sign`
 
 ### v0.2.2 - 2025-02-15
 

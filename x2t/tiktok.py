@@ -94,7 +94,7 @@ def sign(endpoint: str, params: dict, app_secret: str, body=None) -> str:
     input_data: str = "".join(key + str(params[key]) for key in keys)
 
     if isinstance(body, dict):
-        body_encoded: str = json.dumps(body, separators=(',', ':'))
+        body_encoded: str = json.dumps(body)
         input_data += body_encoded
 
     input_data: str = app_secret + endpoint + input_data + app_secret
