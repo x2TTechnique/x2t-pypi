@@ -1,5 +1,5 @@
 import unittest
-from x2t.exception import ErrorHandler
+from x2t.exception import handler
 
 
 class TestError(unittest.TestCase):
@@ -9,11 +9,11 @@ class TestError(unittest.TestCase):
             self.raise_exception_division()
             self.raise_exception_combine_types()
 
-    @ErrorHandler.exception(log=False)
+    @handler(log=True, timing=True)
     def raise_exception_division(self):
         return 1 / 0
 
-    @ErrorHandler.exception(log=False)
+    @handler(log=True, timing=True)
     def raise_exception_combine_types(self):
         return "a" + True
 

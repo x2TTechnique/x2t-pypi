@@ -90,9 +90,8 @@ def sign(endpoint: str, params: dict, app_secret: str, body=None) -> str:
         - The `params` dictionary is sorted before signing.
         - The request body is JSON-encoded before being included in the signature.
     """
-    keys: list[str] = sorted(key for key in params if key not in [
-                             "sign", "access_token"])
-    input_data: str = "".join(key + params[key] for key in keys)
+    keys: list[str] = sorted(key for key in params if key not in ["sign", "access_token"])
+    input_data: str = "".join(key + str(params[key]) for key in keys)
 
     if isinstance(body, dict):
         body_encoded: str = json.dumps(body, separators=(',', ':'))

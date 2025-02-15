@@ -1,4 +1,8 @@
-## <a name="v0.2.1" href="https://pypi.org/project/x2ttech/0.2.1/">x2T Library</a>
+## <a name="v0.2.2" href="https://pypi.org/project/x2ttech/0.2.1/">x2T Library</a>
+
+### v0.2.2 - 2025-02-15
+
+- Fix concate query string when value not string type
 
 ### v0.2.1 - 2025-02-10
 
